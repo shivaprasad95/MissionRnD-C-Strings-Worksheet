@@ -17,14 +17,15 @@ Objectives of Strings-1 Lesson:
 
 int main(){
 
-	//Test KthIndexFromEnd 
 
+	//Test KthIndexFromEnd 
+	
 	//TestNumbertoStr
 
 	//removeSpaces
 
 	//StrWordsinRev
-
+	
 	//commonWords
 
 
