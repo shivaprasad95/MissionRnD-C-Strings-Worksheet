@@ -17,17 +17,19 @@ Objectives of Strings-1 Lesson:
 
 int main(){
 
-	char str[] = "12 w 2e     we  2 3     ";
 	//Test KthIndexFromEnd 
 	
 	//TestNumbertoStr
 
 	//removeSpaces
-	char a = removeSpaces(str);
+
 	//StrWordsinRev
 
 	//commonWords
+	char *str1 = "       ";
+	char *str2 = " who what";
 
+	char **res = commonWords(str1, str2);
 
 	return 0;
 }
